@@ -7,3 +7,5 @@ Master branch is the final paper to be published
 Multiple writers working on different articles that all have to fit into the paper
 Communicating with writers (changes needed, new articles to be written) === tracking
 Editor has full control over the project -- will reject unwanted changes -- writers don't automatically get their articles added to the final
+
+This is the change that I'm requesting to make. boom. 
